@@ -1,0 +1,6 @@
+{
+  "name": "Simplify",
+  "description": "Multilingual academic note-taking and lecture transcription assistant for university students in Malawi. Translates Chichewa-English code-switching, filters by modules, and organizes exam-ready notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
